@@ -1,4 +1,4 @@
-<h1>Hi, I'm Octvian! </h1>
+<h1>Hi, I'm Octavian! </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
