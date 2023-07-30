@@ -6,6 +6,11 @@
 
 <h2>📜 Certifications </h2>
 
+  - CompTIA A+ by compTIA
+  - AWS Vs Azue VS GCPAWS Vs Azue VS GCP by Great Learning Academy
+  - Cyber CrimeCyber Crime by Great Learning Academy
+  - Types of Cyber SecurityTypes of Cyber Security by Great Learning Academy
+
 <h2>📺 Popular YouTube Videos</h2>
 
 <h2> 🤳 Connect with me:</h2>
@@ -22,12 +27,10 @@
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Developing my Cybersecurity and Cloud skills.
+- 🌱 I’m currently learning how AWS cloud infrastructure works
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: LinkedIn, Indeed, Ziprecruiter
+- 😄 Pronouns: he/she
+- ⚡ Fun fact: On average each day I get to bike 5-10 miles and rock climb outdoors!
 -->
