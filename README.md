@@ -6,10 +6,28 @@
 
 <h2>📜 Certifications </h2>
 
-  - CompTIA A+ by compTIA
+  - Aquired through compTIA: CompTIA A+ 
+
+
+<h2>📜 Cybersecurity Certificates </h2>  
+
+<h3> Great Learning Academy </h3>
+
+  - Cyber CrimeCyber Crime 
+  - Aquired through Great Learning Academy: Types of Cyber SecurityTypes of Cyber Security 
+   
+
+<h2>👨‍💻 Cloud Labs:</h2>
+
+  -
+
+ - Aquired through Great Learning Academy: Introduction to Cryptography
+<h2>📜 Cloud Computing Certificates </h2>  
+
+<h3> Great Learning Academy </h3>
+
   - AWS Vs Azue VS GCPAWS Vs Azue VS GCP by Great Learning Academy
-  - Cyber CrimeCyber Crime by Great Learning Academy
-  - Types of Cyber SecurityTypes of Cyber Security by Great Learning Academy
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
