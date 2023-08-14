@@ -15,13 +15,14 @@
 
   - Cyber CrimeCyber Crime 
   - Aquired through Great Learning Academy: Types of Cyber SecurityTypes of Cyber Security 
-   
+  - Aquired through Great Learning Academy: [Introduction to Cryptography](https://olympus.mygreatlearning.com/courses/85208/certificate)
+
+
 
 <h2>👨‍💻 Cloud Labs:</h2>
 
-  -
 
- - Aquired through Great Learning Academy: Introduction to Cryptography
+
 <h2>📜 Cloud Computing Certificates </h2>  
 
 <h3> Great Learning Academy </h3>
@@ -39,10 +40,13 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
+
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
+
 
 
 - 🔭 I’m currently working on Developing my Cybersecurity and Cloud skills.
